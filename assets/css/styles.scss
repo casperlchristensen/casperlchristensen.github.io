@@ -21,3 +21,6 @@
 @media (prefers-color-scheme: dark) {
   .pub + .pub { border-top-color: #3a3a3a; }
 }
+
+.pub-hr { border: 0; border-top: 1px solid #e6e6e6; margin: 28px 0 36px; }
+@media (prefers-color-scheme: dark) { .pub-hr { border-top-color:#3a3a3a; } }
