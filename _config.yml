@@ -1,3 +1,11 @@
 theme: jekyll-theme-minimal
 title: Casper L. Christensen
 description: Machine Learning Researcher from Denmark. My research interests are interpretability, robustness, and compositionality.
+
+collections:
+  publications:
+    output: true
+
+defaults:
+  - scope: { path: "_publications", type: "publications" }
+    values: { layout: publication }
