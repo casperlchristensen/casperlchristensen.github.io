@@ -2,6 +2,7 @@
 title: "Code Like Humans: A Multi-Agent Solution for Medical Coding"
 authors: "Andreas Motzfeldt, Joakim Edin, Casper L. Christensen, Christian Hardmeier, Lars Maaløe, Anna Rogers"
 venue: "Preprint, 2025"
+rank: 2
 image: /assets/img/codeseeker-thumb.png
 links:
   - { text: "pdf",  url: "https://arxiv.org/abs/2509.05378" }

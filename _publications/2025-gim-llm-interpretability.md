@@ -2,6 +2,7 @@
 title: "GIM: Improved Interpretability for Large Language Models"
 authors: "Joakim Edin, Róbert Csordás, Tuukka Ruotsalo, Zhengxuan Wu, Maria Maistro, Jing Huang, Lars Maaløe, Casper L. Christensen"
 venue: "Preprint, 2025"
+rank: 1
 image: /assets/img/gim-thumb.png
 links:
   - { text: "pdf",  url: "https://arxiv.org/abs/2505.17630" }
