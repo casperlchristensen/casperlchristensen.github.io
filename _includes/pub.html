@@ -1,13 +1,14 @@
 <article class="pub">
   <h3 class="title">{{ include.pub.title }}</h3>
-  <p class="authors">{{ include.pub.authors }}</p>
-  <p class="venue">{{ include.pub.venue }}</p>
-
   {% if include.pub.image %}
     <figure class="thumb-wrap">
       <img class="thumb" src="{{ include.pub.image }}" alt="">
     </figure>
   {% endif %}
+
+  <p class="authors">{{ include.pub.authors }}</p>
+  <p class="venue">{{ include.pub.venue }}</p>
+
 
   {% if include.pub.links %}
     <p class="links">
