@@ -6,7 +6,7 @@ rank: 1
 image: /assets/img/gim-thumb.png
 links:
   - { text: "pdf",  url: "https://arxiv.org/abs/2505.17630" }
-  - { text: "bib",  url: "/bib/edin2025gim.bib" }
+  - { text: "code",  url: "https://github.com/JoakimEdin/gim" }
 date: 2025-05-28
 excerpt: "Presents GIM, a method aiming to improve mechanistic interpretability signals in LLMs."
 ---

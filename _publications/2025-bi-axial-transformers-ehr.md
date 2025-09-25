@@ -6,7 +6,7 @@ rank: 3
 image: /assets/img/bat-ehr-thumb.png
 links:
   - { text: "pdf",  url: "https://arxiv.org/abs/2508.12418" }
-  - { text: "bib",  url: "/bib/devries2025bat.bib" }
+  - { text: "code", url: "https://github.com/gsn245/Bi-Axial_Attention_Transformer" }
 date: 2025-08-17
 excerpt: "Introduces the Bi-Axial Transformer (BAT) that attends across both clinical-variable and time axes in EHRs. BAT achieves SOTA on sepsis prediction, is competitive for mortality classification, and shows robustness to missingness; baselines were re-implemented in PyTorch for reproducibility."
 ---
