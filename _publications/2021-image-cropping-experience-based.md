@@ -1,7 +1,7 @@
 ---
 title: "An Experience-Based Direct Generation Approach to Automatic Image Cropping"
 authors: "Casper L. Christensen, Aneesh Vartakavi"
-venue: "IEEE Access, 2021, 9:107600–107610"
+venue: "IEEE Access, 2021"
 rank: 5
 image: /assets/img/image-cropping-thumb.png
 links:

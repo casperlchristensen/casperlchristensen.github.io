@@ -1,7 +1,7 @@
 ---
 title: "Normalized AOPC: Fixing Misleading Faithfulness Metrics for Feature Attribution Explainability"
 authors: "Joakim Edin, Andreas Geert Motzfeldt, Casper L. Christensen, Tuukka Ruotsalo, Lars Maaløe, Maria Maistro"
-venue: "ACL 2025 (Main Conference)"
+venue: "Association for Computational Linguistics (ACL), 2025"
 rank: 4
 image: /assets/img/aopc-thumb.png
 links:

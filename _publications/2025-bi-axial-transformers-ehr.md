@@ -1,7 +1,7 @@
 ---
 title: "Bi-Axial Transformers: Addressing the Increasing Complexity of EHR Classification"
 authors: "Rachael DeVries, Casper L. Christensen, Marie Lisandra Zepeda Mendoza, Ole Winther"
-venue: "arXiv preprint arXiv:2508.12418, 2025"
+venue: "Preprint, 2025"
 rank: 3
 image: /assets/img/bat-ehr-thumb.png
 links:
